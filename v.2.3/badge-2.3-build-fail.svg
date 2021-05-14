@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="83"
+   height="18"
+   viewBox="0 0 83 18"
+   version="1.1"
+   id="svg1810"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="badge-2.3-build-fail.svg"
+   inkscape:export-filename="C:\Users\ropim\_OPUS\GRAPHIC_DESIGN\ROPIMASI_PORTIFOLIO_WEB\matrix\badges-2.3\badge-2.3-build-fail.png"
+   inkscape:export-xdpi="102"
+   inkscape:export-ydpi="102">
+  <defs
+     id="defs1804" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.1032074"
+     inkscape:cx="37.198619"
+     inkscape:cy="3.9973711"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1807">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-290.76665)">
+    <g
+       id="g828">
+      <g
+         transform="matrix(0.99999583,0,0,1,22.332609,-31.52406)"
+         id="g834">
+        <path
+           sodipodi:nodetypes="csssscc"
+           inkscape:connector-curvature="0"
+           id="path830"
+           d="m 25.109078,323.29071 h -42.433435 c -2.216,0 -4,1.784 -4,4 v 8 c 0,2.216 1.784,4 4,4 h 42.433435 z"
+           style="opacity:1;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.01;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.01, 0.01;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+        <path
+           style="opacity:1;fill:#ff7f7f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.01008299;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.01008299, 0.01008299;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+           d="m 24.109078,323.29071 h 31.483553 c 2.252934,0 4.066667,1.784 4.066667,4 v 8 c 0,2.216 -1.813733,4 -4.066667,4 H 24.109078 Z"
+           id="rect827"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csssscc" />
+      </g>
+      <text
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         id="text3240"
+         y="296.12045"
+         x="42.660065"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;line-height:1.25;font-family:'Averia Serif Libre';-inkscape-font-specification:'Averia Serif Libre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:none;stroke-width:0.28142941"
+         xml:space="preserve"
+         transform="scale(0.97044452,1.0304556)"><tspan
+           y="296.12045"
+           x="42.660065"
+           id="tspan3238"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Averia Serif Libre';-inkscape-font-specification:'Averia Serif Libre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#070707;fill-opacity:1;stroke-width:0.28142941">Build  Fail</tspan></text>
+    </g>
+  </g>
+</svg>
